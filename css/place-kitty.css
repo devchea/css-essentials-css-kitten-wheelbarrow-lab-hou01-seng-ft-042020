@@ -25,7 +25,7 @@
 
 }
 
-#basket {
+#basket img{
   position: absolute;
   z-index: 5;
   top: 291px;
